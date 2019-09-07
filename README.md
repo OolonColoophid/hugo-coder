@@ -4,6 +4,8 @@ A simple and clean blog theme for [Hugo](https://gohugo.io/).
 
 ![](https://github.com/luizdepra/hugo-coder/blob/master/images/screenshot.png)
 
+Modified only slightly by me to add a little colour. Many thanks to the original authors.
+
 ## Quick Start
 
 1. Add the repository into your Hugo Project repository as a submodule, `git submodule add https://github.com/luizdepra/hugo-coder.git themes/hugo-coder`.

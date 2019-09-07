@@ -2,7 +2,7 @@ body.inverted {
 
   color: $fg-color-inverted;
   background-color: $bg-color-inverted;
-  
+
   a {
     color: $link-color-inverted;
   }
@@ -19,6 +19,12 @@ body.inverted {
   code {
     background-color: $alt-bg-color-inverted;
     color: $fg-color-inverted;
+  }
+
+  hr {
+    height: 1px;
+    background-color: $link-color-inverted;
+    border: none;
   }
 
   pre {
