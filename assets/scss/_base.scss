@@ -23,18 +23,39 @@ body {
 }
 
 a {
-  font-weight: 300;
-  color: $link-color;
-  padding-bottom: 2px;
-  border-bottom: 1px dashed $link-color;
+  color: $fg-color;
   text-decoration: none;
-  &:focus,
-  &:hover {
-    text-decoration: none;
-    padding-bottom: 2px;
-    border-bottom: 1px solid $link-color;
-  }
 }
+
+
+.content,.footer {
+
+  a {
+    font-weight: 300;
+    color: $link-color;
+    padding-bottom: 2px;
+    border-bottom: 1px dashed $link-color;
+    text-decoration: none;
+    &:focus,
+    &:hover {
+      text-decoration: none;
+      padding-bottom: 2px;
+      border-bottom: 1px solid $link-color;
+    }
+  }
+
+  .about,.footnotes {
+    a {
+      border-bottom: none;
+      &:focus,
+      &:hover {
+        border-bottom: none;
+      }
+    }
+  }
+
+}
+
 
 hr {
   height: 1px;
@@ -171,7 +192,6 @@ table tr th:last-child {
 img {
   max-width: 100%;
 }
-
 
 .wrapper {
   display: flex;
