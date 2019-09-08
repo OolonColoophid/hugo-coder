@@ -2,9 +2,11 @@
 
 A simple and clean blog theme for [Hugo](https://gohugo.io/).
 
-![](https://github.com/luizdepra/hugo-coder/blob/master/images/screenshot.png)
+![](https://github.com/luizdepra/hugo-coder/blob/master/images/screenshotIHhome.png)
 
-Modified only slightly by me to add a little colour. Many thanks to the original authors.
+![](https://github.com/luizdepra/hugo-coder/blob/master/images/screenshotIHpost.png)
+
+Modified only slightly by me to add a little colour. Used by [my blog](http://www.ianhocking.com). Many thanks to the original authors.
 
 ## Quick Start
 
