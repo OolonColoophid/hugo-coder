@@ -6,7 +6,7 @@ A simple and clean blog theme for [Hugo](https://gohugo.io/).
 
 ![](https://github.com/OolonColoophid/hugo-coder/blob/master/images/screenshotIHpost.png)
 
-Modified only slightly by me to add a little colour. Used by [my blog](http://www.ianhocking.com). Many thanks to the fantastic author of the original theme, [Luiz de Pra](https://github.com/luizdepra).
+Modified only slightly by me to add a little colour. Used by [my blog](http://ianhocking.com). Many thanks to the fantastic author of the original theme, [Luiz de Pra](https://github.com/luizdepra).
 
 ## Quick Start
 
