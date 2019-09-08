@@ -35,8 +35,8 @@
       max-height: 0;
       width: 100%;
       background-color: $bg-color;
-      border-top: solid 2px $alt-bg-color;
-      border-bottom: solid 2px $alt-bg-color;
+      border-top: solid 2px $fg-color;
+      border-bottom: solid 2px $fg-color;
       transition: opacity 0.25s, max-height 0.15s linear;
     }
     .navigation-item {
@@ -69,7 +69,7 @@
     display: none;
     @media only screen and (max-width : 768px) {
       &:checked + label {
-        color: $alt-bg-color;
+        color: $fg-color;
       }
       &:checked + label + ul {
         visibility: visible;
